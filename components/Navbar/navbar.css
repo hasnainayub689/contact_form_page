@@ -1,0 +1,35 @@
+.logo_animation {
+    width: 120px;
+    height: 120px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.main_nav {
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+
+.main_ul {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+    padding-right: 30px;
+    gap: 24px;
+    font-weight: 500;
+    padding-top: 20px;
+}
+
+.main_ul li {
+    cursor: pointer;
+}
